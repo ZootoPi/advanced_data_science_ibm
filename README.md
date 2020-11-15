@@ -1,8 +1,11 @@
 # __Advanced Data Science with IBM Specialization__
 
 Course Link: [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
+<p align="center">
+    <img src="./Images/advanced_ds.png" width="50%" height="50%" title="IBM Specialization Certificate" >
+</p>
 
-This reporatory contains the solutions of every questions/quizes/exercises to achieve the badget as well as a short summary for each course, including
+This reporatory contains the solutions of every questions/quizes/exercises to achieve the badge as well as a short summary for each course, including
 
 1. __Fundamentals of Scalable Data Science__
     - [Course](https://www.coursera.org/learn/ds)
@@ -18,7 +21,7 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
     - [Solution]()
 
 ## Achievement goal:
-__BADGET__
+
 
 
 ## Contributors:
