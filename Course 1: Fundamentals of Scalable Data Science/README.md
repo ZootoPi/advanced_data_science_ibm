@@ -1,6 +1,12 @@
 # __Course 1: Fundamentals of Scalable Data Science__
 
-Course Link: [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
+___Course Link___: [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
+
+## __Achievement goal__:
+<p align="center">
+    <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge" >
+</p>
+
 
 ## __Solution__
 
@@ -54,7 +60,7 @@ Course Link: [Fundamentals of Scalable Data Science](https://www.coursera.org/le
     <img src="./img/w2_quizz3b.png" width="80%" height="50%" title="ApacheSparkSQL and Cloudant" >
 </p>
 
-- [Programming assignment]().
+- [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%202/Assignment.ipynb).
 
 ### __Week 3__
 - Quiz 1:
@@ -98,7 +104,7 @@ Course Link: [Fundamentals of Scalable Data Science](https://www.coursera.org/le
     <img src="./img/w3_quizz3f.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
 </p>
 
-- [Programming assignment]().
+- [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%203/Assignment.ipynb).
 
 ### __Week 4__
 - Quiz:
@@ -115,10 +121,9 @@ Course Link: [Fundamentals of Scalable Data Science](https://www.coursera.org/le
     <img src="./img/w4_quizz1d.png" width="80%" height="50%" title="Visualization and dimension reduction" >
 </p>
 
-- [Programming assignment]().
+- [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%204/Assignment.ipynb).
 
-## Achievement goal:
 
-## Contributors:
+## __Contributors__:
 - 🐮 [@honghanhh](https://github.com/honghanhh)
 - 🐔 [@tiena2cva](https://github.com/tiena2cva)
