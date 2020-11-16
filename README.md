@@ -9,7 +9,7 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 
 1. __Fundamentals of Scalable Data Science__
     - [Course](https://www.coursera.org/learn/ds)
-    - [Solution]()
+    - [Solution](https://github.com/GafBof/advanced_data_science_ibm/tree/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science)
 2. __Advanced Machine Learning and Signal Processing__
     - [Course](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
     - [Solution]()
