@@ -33,6 +33,7 @@ Course Link: [Fundamentals of Scalable Data Science](https://www.coursera.org/le
 <p align="center">
     <img src="./img/w2_quizz1c.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
 </p>
+
 - Quiz 2:
 <p align="center">
     <img src="./img/w2_quizz2a.png" width="80%" height="50%" title="Programming language options and functional programming" >
@@ -56,8 +57,65 @@ Course Link: [Fundamentals of Scalable Data Science](https://www.coursera.org/le
 - [Programming assignment]().
 
 ### __Week 3__
+- Quiz 1:
+<p align="center">
+    <img src="./img/w3_quizz1a.png" width="80%" height="50%" title="Averages and standard deviation" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz1b.png" width="80%" height="50%" title="Averages and standard deviation" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz1c.png" width="80%" height="50%" title="Averages and standard deviation" >
+</p>
+
+- Quiz 2:
+<p align="center">
+    <img src="./img/w3_quizz2a.png" width="80%" height="50%" title="Skewness and kurtosis" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz2b.png" width="80%" height="50%" title="Skewness and kurtosis" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz2c.png" width="80%" height="50%" title="Skewness and kurtosis" >
+</p>
+
+- Quiz 3:
+<p align="center">
+    <img src="./img/w3_quizz3a.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz3b.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz3c.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz3d.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+</p><p align="center">
+    <img src="./img/w3_quizz3e.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+</p>
+<p align="center">
+    <img src="./img/w3_quizz3f.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+</p>
+
+- [Programming assignment]().
 
 ### __Week 4__
+- Quiz:
+<p align="center">
+    <img src="./img/w4_quizz1a.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+</p>
+<p align="center">
+    <img src="./img/w4_quizz1b.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+</p>
+<p align="center">
+    <img src="./img/w4_quizz1c.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+</p>
+<p align="center">
+    <img src="./img/w4_quizz1d.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+</p>
+
+- [Programming assignment]().
 
 ## Achievement goal:
 
