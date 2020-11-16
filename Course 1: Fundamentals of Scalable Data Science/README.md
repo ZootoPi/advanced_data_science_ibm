@@ -3,123 +3,117 @@
 ___Course Link___: [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
 
 ## __Achievement goal__:
-<p align="center">
-    <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge" >
-</p>
+    <p align="center">
+        <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge" >
+    </p>
 
 
 ## __Solution__
 
 ### __Week 1__
 - Quiz:
-<p align="center">
-    <img src="./img/w1_quizz.png" width="80%" height="50%" title="Challenges, terminology, methods and technology" >
-</p>
+    <p align="center">
+        <img src="./img/w1_quizz.png" width="80%" height="50%" title="Challenges, terminology, methods and technology" >
+    </p>
 
 - [Environment Setup](https://github.com/IBM/skillsnetwork/wiki/Watson-Studio-Setup).
 
 - [Programming assignment 1](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%201/Assignment1.ipynb).
-<!-- <p align="center">
-    <img src="./img/w1_assignment1.png" width="80%" height="50%" title="Warmup Assignment" >
-</p> -->
 
 - [Programming assignment 2](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%201/Assignment2.ipynb).
-<!-- <p align="center">
-    <img src="./img/w1_assignment2.png" width="80%" height="50%" title="Warmup Assignment" >
-</p> -->
 
 ### __Week 2__
 - Quiz 1:
-<p align="center">
-    <img src="./img/w2_quizz1a.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
-</p>
-<p align="center">
-    <img src="./img/w2_quizz1b.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
-</p>
-<p align="center">
-    <img src="./img/w2_quizz1c.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
-</p>
+    <p align="center">
+        <img src="./img/w2_quizz1a.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
+    </p>
+    <p align="center">
+        <img src="./img/w2_quizz1b.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
+    </p>
+    <p align="center">
+        <img src="./img/w2_quizz1c.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
+    </p>
 
 - Quiz 2:
-<p align="center">
-    <img src="./img/w2_quizz2a.png" width="80%" height="50%" title="Programming language options and functional programming" >
-</p>
-<p align="center">
-    <img src="./img/w2_quizz2b.png" width="80%" height="50%" title="Programming language options and functional programming" >
-</p>
-<p align="center">
-    <img src="./img/w2_quizz2c.png" width="80%" height="50%" title="Programming language options and functional programming" >
-</p>
+    <p align="center">
+        <img src="./img/w2_quizz2a.png" width="80%" height="50%" title="Programming language options and functional programming" >
+    </p>
+    <p align="center">
+        <img src="./img/w2_quizz2b.png" width="80%" height="50%" title="Programming language options and functional programming" >
+    </p>
+    <p align="center">
+        <img src="./img/w2_quizz2c.png" width="80%" height="50%" title="Programming language options and functional programming" >
+    </p>
 
 - Quiz 3:
-<p align="center">
-    <img src="./img/w2_quizz3a.png" width="80%" height="50%" title="ApacheSparkSQL and Cloudant" >
-</p>
-</p>
-<p align="center">
-    <img src="./img/w2_quizz3b.png" width="80%" height="50%" title="ApacheSparkSQL and Cloudant" >
-</p>
+    <p align="center">
+        <img src="./img/w2_quizz3a.png" width="80%" height="50%" title="ApacheSparkSQL and Cloudant" >
+    </p>
+    </p>
+    <p align="center">
+        <img src="./img/w2_quizz3b.png" width="80%" height="50%" title="ApacheSparkSQL and Cloudant" >
+    </p>
 
 - [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%202/Assignment.ipynb).
 
 ### __Week 3__
 - Quiz 1:
-<p align="center">
-    <img src="./img/w3_quizz1a.png" width="80%" height="50%" title="Averages and standard deviation" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz1b.png" width="80%" height="50%" title="Averages and standard deviation" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz1c.png" width="80%" height="50%" title="Averages and standard deviation" >
-</p>
+    <p align="center">
+        <img src="./img/w3_quizz1a.png" width="80%" height="50%" title="Averages and standard deviation" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz1b.png" width="80%" height="50%" title="Averages and standard deviation" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz1c.png" width="80%" height="50%" title="Averages and standard deviation" >
+    </p>
 
 - Quiz 2:
-<p align="center">
-    <img src="./img/w3_quizz2a.png" width="80%" height="50%" title="Skewness and kurtosis" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz2b.png" width="80%" height="50%" title="Skewness and kurtosis" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz2c.png" width="80%" height="50%" title="Skewness and kurtosis" >
-</p>
+    <p align="center">
+        <img src="./img/w3_quizz2a.png" width="80%" height="50%" title="Skewness and kurtosis" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz2b.png" width="80%" height="50%" title="Skewness and kurtosis" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz2c.png" width="80%" height="50%" title="Skewness and kurtosis" >
+    </p>
 
 - Quiz 3:
-<p align="center">
-    <img src="./img/w3_quizz3a.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz3b.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz3c.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz3d.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
-</p><p align="center">
-    <img src="./img/w3_quizz3e.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
-</p>
-<p align="center">
-    <img src="./img/w3_quizz3f.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
-</p>
+    <p align="center">
+        <img src="./img/w3_quizz3a.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz3b.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz3c.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz3d.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+    </p><p align="center">
+        <img src="./img/w3_quizz3e.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz3f.png" width="80%" height="50%" title="Covariance, correlation and multidimensional Vector Spaces" >
+    </p>
 
 - [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%203/Assignment.ipynb).
 
 ### __Week 4__
 - Quiz:
-<p align="center">
-    <img src="./img/w4_quizz1a.png" width="80%" height="50%" title="Visualization and dimension reduction" >
-</p>
-<p align="center">
-    <img src="./img/w4_quizz1b.png" width="80%" height="50%" title="Visualization and dimension reduction" >
-</p>
-<p align="center">
-    <img src="./img/w4_quizz1c.png" width="80%" height="50%" title="Visualization and dimension reduction" >
-</p>
-<p align="center">
-    <img src="./img/w4_quizz1d.png" width="80%" height="50%" title="Visualization and dimension reduction" >
-</p>
+    <p align="center">
+        <img src="./img/w4_quizz1a.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz1b.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz1c.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz1d.png" width="80%" height="50%" title="Visualization and dimension reduction" >
+    </p>
 
 - [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%204/Assignment.ipynb).
 
