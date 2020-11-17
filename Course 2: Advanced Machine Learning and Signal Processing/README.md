@@ -4,9 +4,9 @@
 
 ## Achievement goal:
 
-<!-- <p align="center">
-    <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge" >
-</p> -->
+<p align="center">
+    <img src="../Badges/Advanced-Machine-Learning-and-Signal-Processing.png" width="80%" height="50%" title="Badge" >
+</p>
 
 
 ## Solution
