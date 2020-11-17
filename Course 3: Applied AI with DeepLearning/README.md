@@ -4,6 +4,10 @@
 
 ## Achievement goal:
 
+<p align="center">
+    <img src="../Badges/Applied-AI-with-DeepLearning.png" width="80%" height="50%" title="Badge" >
+</p>
+
 ## Solution
 
 ### Week 1
@@ -52,7 +56,7 @@
 
 - Quiz1:
     <p align="center">
-        <img src="./img/w3_quizz1a" width="80%" height="50%" title="Anomaly Detection" >
+        <img src="./img/w3_quizz1a.png" width="80%" height="50%" title="Anomaly Detection" >
     </p>
     <p align="center">
         <img src="./img/w3_quizz1b.png" width="80%" height="50%" title="Anomaly Detection" >
@@ -60,7 +64,10 @@
 
 - Quiz2:
     <p align="center">
-        <img src="./img/w3_quizz2.png" width="80%" height="50%" title="Sequence Classification with Keras LSTM Network" >
+        <img src="./img/w3_quizz2a.png" width="80%" height="50%" title="Sequence Classification with Keras LSTM Network" >
+    </p>
+    <p align="center">
+        <img src="./img/w3_quizz2b.png" width="80%" height="50%" title="Sequence Classification with Keras LSTM Network" >
     </p>
 
 - Quiz3:
@@ -71,12 +78,6 @@
 - Quiz4:
     <p align="center">
         <img src="./img/w3_quizz4a.png" width="80%" height="50%" title="NLP" >
-    </p>
-    <p align="center">
-        <img src="./img/w3_quizz4b.png" width="80%" height="50%" title="Pytorch Introduction" >
-    </p>
-    <p align="center">
-        <img src="./img/w3_quizz4c.png" width="80%" height="50%" title="Pytorch Introduction" >
     </p>
 
 - [Assignment]().
