@@ -1,18 +1,18 @@
-# __Course 2: Advanced Machine Learning and Signal Processing__
+# Course 2: Advanced Machine Learning and Signal Processing
 
-Course Link: [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
+**_Course Link_**: [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
 
-## __Achievement goal__:
-__BADGET__:
+## Achievement goal:
 
 <!-- <p align="center">
     <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge" >
 </p> -->
 
 
-## __Solution__
+## Solution
 
-### __Week 1__
+### Week 1
+
 - Quiz 1:
     <p align="center">
         <img src="./img/w1_quizz1.png" width="80%" height="50%" title="Machine Learning" >
@@ -26,7 +26,8 @@ __BADGET__:
 
 - [Assignment]().
 
-### __Week 2__
+### Week 2
+
 - Quiz 1:
     <p align="center">
         <img src="./img/w2_quizz1.png" width="80%" height="50%" title="Linear Regression" >
@@ -81,7 +82,8 @@ __BADGET__:
 
 - [Assignment]().
 
-### __Week 3__
+### Week 3
+
 - Quiz 1:
     <p align="center">
         <img src="./img/w3_quizz1.png" width="80%" height="50%" title="Clustering" >
@@ -100,7 +102,8 @@ __BADGET__:
 
 - [Assignment]().
 
-### __Week 4__
+### Week 4
+
 - Quiz 1:
     <p align="center">
         <img src="./img/w4_quizz1a.png" width="80%" height="50%" title="Fourier Transform" >
@@ -130,5 +133,6 @@ __BADGET__:
 - [Assignment]().
 
 ## Contributors:
+
 - 🐮 [@honghanhh](https://github.com/honghanhh)
 - 🐔 [@tiena2cva](https://github.com/tiena2cva)

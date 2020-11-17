@@ -1,16 +1,16 @@
-# __Course 1: Fundamentals of Scalable Data Science__
+# Course 1: Fundamentals of Scalable Data Science
 
-___Course Link___: [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
+**_Course Link_**: [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds)
 
-## __Achievement goal__:
+## Achievement goal:
     <p align="center">
         <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge" >
     </p>
 
+## Solution
 
-## __Solution__
+### Week 1
 
-### __Week 1__
 - Quiz:
     <p align="center">
         <img src="./img/w1_quizz.png" width="80%" height="50%" title="Challenges, terminology, methods and technology" >
@@ -22,7 +22,8 @@ ___Course Link___: [Fundamentals of Scalable Data Science](https://www.coursera.
 
 - [Programming assignment 2](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%201/Assignment2.ipynb).
 
-### __Week 2__
+### Week 2
+
 - Quiz 1:
     <p align="center">
         <img src="./img/w2_quizz1a.png" width="80%" height="50%" title="Data storage solutions, and ApacheSpark" >
@@ -56,7 +57,8 @@ ___Course Link___: [Fundamentals of Scalable Data Science](https://www.coursera.
 
 - [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%202/Assignment.ipynb).
 
-### __Week 3__
+### Week 3
+
 - Quiz 1:
     <p align="center">
         <img src="./img/w3_quizz1a.png" width="80%" height="50%" title="Averages and standard deviation" >
@@ -100,7 +102,8 @@ ___Course Link___: [Fundamentals of Scalable Data Science](https://www.coursera.
 
 - [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%203/Assignment.ipynb).
 
-### __Week 4__
+### Week 4
+
 - Quiz:
     <p align="center">
         <img src="./img/w4_quizz1a.png" width="80%" height="50%" title="Visualization and dimension reduction" >
@@ -117,7 +120,7 @@ ___Course Link___: [Fundamentals of Scalable Data Science](https://www.coursera.
 
 - [Programming assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%201:%20Fundamentals%20of%20Scalable%20Data%20Science/Week%204/Assignment.ipynb).
 
+## Contributors:
 
-## __Contributors__:
 - 🐮 [@honghanhh](https://github.com/honghanhh)
 - 🐔 [@tiena2cva](https://github.com/tiena2cva)

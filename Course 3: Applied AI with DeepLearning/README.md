@@ -1,12 +1,12 @@
-# __Course 3: Advanced Data Science with IBM Specialization__
+# Course 3: Advanced Data Science with IBM Specialization
 
-Course Link: [Advanced Data Science with IBM Specialization](https://www.coursera.org/learn/ai)
+**_Course Link_**: [Advanced Data Science with IBM Specialization](https://www.coursera.org/learn/ai)
 
 ## Achievement goal:
 
-## __Solution__
+## Solution
 
-### __Week 1__
+### Week 1
 - Quiz:
     <p align="center">
         <img src="./img/w1_quizz1a.png" width="80%" height="50%" title="DeepLearning Fundamentals" >
@@ -15,7 +15,8 @@ Course Link: [Advanced Data Science with IBM Specialization](https://www.courser
         <img src="./img/w1_quizz1b.png" width="80%" height="50%" title="DeepLearning Fundamentals" >
     </p>
 
-### __Week 2__
+### Week 2
+
 - Quiz1:
     <p align="center">
         <img src="./img/w2_quizz1a_sai_cau2.png" width="80%" height="50%" title="Tensorflow" >
@@ -47,7 +48,8 @@ Course Link: [Advanced Data Science with IBM Specialization](https://www.courser
 
 - [Assignment]().
 
-### __Week 3__
+### Week 3
+
 - Quiz1:
     <p align="center">
         <img src="./img/w3_quizz1a" width="80%" height="50%" title="Anomaly Detection" >
@@ -79,9 +81,11 @@ Course Link: [Advanced Data Science with IBM Specialization](https://www.courser
 
 - [Assignment]().
 
-### __Week 4__
+### Week 4
+
 - [Assignment]().
 
 ## Contributors:
+
 - 🐮 [@honghanhh](https://github.com/honghanhh)
 - 🐔 [@tiena2cva](https://github.com/tiena2cva)
