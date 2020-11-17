@@ -24,7 +24,7 @@
     </p>
 
 
-- [Assignment]().
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%202:%20Advanced%20Machine%20Learning%20and%20Signal%20Processing/Week%201/Assignment.ipynb).
 
 ### Week 2
 
@@ -80,7 +80,7 @@
     </p>
 
 
-- [Assignment]().
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%202:%20Advanced%20Machine%20Learning%20and%20Signal%20Processing/Week%202/Assignment.ipynb).
 
 ### Week 3
 
@@ -100,7 +100,7 @@
         <img src="./img/w3_quizz2c.png" width="80%" height="50%" title="PCA" >
     </p>
 
-- [Assignment]().
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%202:%20Advanced%20Machine%20Learning%20and%20Signal%20Processing/Week%203/Assignment.ipynb).
 
 ### Week 4
 
@@ -130,7 +130,7 @@
     </p>
 
 
-- [Assignment]().
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%202:%20Advanced%20Machine%20Learning%20and%20Signal%20Processing/Week%204/assignment.ipynb).
 
 ## Contributors:
 

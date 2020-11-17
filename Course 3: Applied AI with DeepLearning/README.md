@@ -19,6 +19,8 @@
         <img src="./img/w1_quizz1b.png" width="80%" height="50%" title="DeepLearning Fundamentals" >
     </p>
 
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%203:%20Applied%20AI%20with%20DeepLearning/Week%201/Assignment.ipynb).
+
 ### Week 2
 
 - Quiz1:
@@ -50,7 +52,7 @@
         <img src="./img/w2_quizz4c.png" width="80%" height="50%" title="Pytorch Introduction" >
     </p>
 
-- [Assignment]().
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%203:%20Applied%20AI%20with%20DeepLearning/Week%202/Assignment.ipynb).
 
 ### Week 3
 
@@ -80,11 +82,11 @@
         <img src="./img/w3_quizz4a.png" width="80%" height="50%" title="NLP" >
     </p>
 
-- [Assignment]().
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%203:%20Applied%20AI%20with%20DeepLearning/Week%203/Assignment.ipynb).
 
 ### Week 4
 
-- [Assignment]().
+- [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%203:%20Applied%20AI%20with%20DeepLearning/Week%204/Assignment.ipynb).
 
 ## Contributors:
 
