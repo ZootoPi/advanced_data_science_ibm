@@ -22,6 +22,9 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 
 - [Course](https://www.coursera.org/learn/advanced-machine-learning-signal-processing)
 - [Solution](./Course%202:%20Advanced%20Machine%20Learning%20and%20Signal%20Processing/README.md)
+<p align="center">
+    <img src="./Badges/Advanced-Machine-Learning-and-Signal-Processing.png" width="80%" height="50%" title="Badge 1" >
+</p>
 
 ### 3. Applied AI with Deep Learning
 
