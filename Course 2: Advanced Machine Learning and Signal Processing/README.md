@@ -100,19 +100,34 @@ __BADGET__:
 
 - [Assignment]().
 
-<!-- ### __Week 4__
+### __Week 4__
 - Quiz 1:
     <p align="center">
-        <img src="./img/w1_quizz1.png" width="80%" height="50%" title="Machine Learning" >
+        <img src="./img/w4_quizz1a.png" width="80%" height="50%" title="Fourier Transform" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz1b.png" width="80%" height="50%" title="Fourier Transform" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz1c.png" width="80%" height="50%" title="Fourier Transform" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz1d_sai.png" width="80%" height="50%" title="Fourier Transform" >
     </p>
 
 - Quiz 2:
     <p align="center">
-        <img src="./img/w1_quizz2.png" width="80%" height="50%" title="ML Pipelines" >
+        <img src="./img/w4_quizz2a.png" width="80%" height="50%" title="Wavelet Transform" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz2b.png" width="80%" height="50%" title="Wavelet Transform" >
+    </p>
+    <p align="center">
+        <img src="./img/w4_quizz2c.png" width="80%" height="50%" title="Wavelet Transform" >
     </p>
 
 
-- [Assignment](). -->
+- [Assignment]().
 
 ## Contributors:
 - 🐮 [@honghanhh](https://github.com/honghanhh)
