@@ -5,7 +5,7 @@
 ## Achievement goal:
 
 <p align="center">
-    <img src="../Badges/Applied-AI-with-DeepLearning.png" width="80%" height="50%" title="Badge" >
+    <img src="../Badges/Applied-AI-with-DeepLearning.png" width="80%" height="50%" title="Badge 3" >
 </p>
 
 ## Solution

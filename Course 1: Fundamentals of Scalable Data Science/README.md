@@ -5,7 +5,7 @@
 ## Achievement goal:
 
 <p align="center">
-    <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge" >
+    <img src="../Badges/Fundamentals-of-Scalable-Data-Science.png" width="80%" height="50%" title="Badge 1" >
 </p>
 
 ## Solution
