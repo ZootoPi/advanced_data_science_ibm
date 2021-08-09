@@ -3,9 +3,8 @@
 **_Course Link_**: [Advanced Data Science Capstone](https://www.coursera.org/learn/advanced-data-science-capstone)
 
 ## Achievement goal:
-<p align="center">
-    <img src="../Badges/Advanced-Data-Science-Capstone.png" width="70%" height="50%" title="Badge 4" >
-</p>
+
+![alt](../Badges/Advanced-Data-Science-Capstone.png)
 
 ## Contributors:
 

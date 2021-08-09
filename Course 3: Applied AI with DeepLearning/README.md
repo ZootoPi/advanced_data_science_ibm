@@ -4,83 +4,52 @@
 
 ## Achievement goal:
 
-<p align="center">
-    <img src="../Badges/Applied-AI-with-DeepLearning.png" width="80%" height="50%" title="Badge 3" >
-</p>
+![alt](../Badges/Applied-AI-with-DeepLearning.png)
 
 ## Solution
 
 ### Week 1
+
 - Quiz:
-    <p align="center">
-        <img src="./img/w1_quizz1a.png" width="80%" height="50%" title="DeepLearning Fundamentals" >
-    </p>
-    <p align="center">
-        <img src="./img/w1_quizz1b.png" width="80%" height="50%" title="DeepLearning Fundamentals" >
-    </p>
+  ![alt](./img/w1_quizz1a.png)
+  ![alt](./img/w1_quizz1b.png)
 
 - [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%203:%20Applied%20AI%20with%20DeepLearning/Week%201/Assignment.ipynb).
 
 ### Week 2
 
 - Quiz1:
-    <p align="center">
-        <img src="./img/w2_quizz1a_sai_cau2.png" width="80%" height="50%" title="Tensorflow" >
-    </p>
-    <p align="center">
-        <img src="./img/w2_quizz1b.png" width="80%" height="50%" title="Tensorflow" >
-    </p>
+  ![alt](./img/w2_quizz1a_sai_cau2.png)
+  ![alt](./img/w2_quizz1b.png)
 
 - Quiz2:
-    <p align="center">
-        <img src="./img/w2_quizz2.png" width="80%" height="50%" title="Tensorflow 2.x" >
-    </p>
+  ![alt](./img/w2_quizz2.png)
 
 - Quiz3:
-    <p align="center">
-        <img src="./img/w2_quizz3.png" width="80%" height="50%" title="Apache SystemML" >
-    </p>
+  ![alt](./img/w2_quizz3.png)
 
 - Quiz4:
-    <p align="center">
-        <img src="./img/w2_quizz4a.png" width="80%" height="50%" title="Pytorch Introduction" >
-    </p>
-    <p align="center">
-        <img src="./img/w2_quizz4b.png" width="80%" height="50%" title="Pytorch Introduction" >
-    </p>
-    <p align="center">
-        <img src="./img/w2_quizz4c.png" width="80%" height="50%" title="Pytorch Introduction" >
-    </p>
+  ![alt](./img/w2_quizz4a.png)
+  ![alt](./img/w2_quizz4b.png)
+  ![alt](./img/w2_quizz4c.png)
 
 - [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%203:%20Applied%20AI%20with%20DeepLearning/Week%202/Assignment.ipynb).
 
 ### Week 3
 
 - Quiz1:
-    <p align="center">
-        <img src="./img/w3_quizz1a.png" width="80%" height="50%" title="Anomaly Detection" >
-    </p>
-    <p align="center">
-        <img src="./img/w3_quizz1b.png" width="80%" height="50%" title="Anomaly Detection" >
-    </p>
+  ![alt](./img/w3_quizz1a.png)
+  ![alt](./img/w3_quizz1b.png)
 
 - Quiz2:
-    <p align="center">
-        <img src="./img/w3_quizz2a.png" width="80%" height="50%" title="Sequence Classification with Keras LSTM Network" >
-    </p>
-    <p align="center">
-        <img src="./img/w3_quizz2b.png" width="80%" height="50%" title="Sequence Classification with Keras LSTM Network" >
-    </p>
+  ![alt](./img/w3_quizz2a.png)
+  ![alt](./img/w3_quizz2b.png)
 
 - Quiz3:
-    <p align="center">
-        <img src="./img/w3_quizz3.png" width="80%" height="50%" title="Image Classification" >
-    </p>
+  ![alt](./img/w3_quizz3.png)
 
 - Quiz4:
-    <p align="center">
-        <img src="./img/w3_quizz4a.png" width="80%" height="50%" title="NLP" >
-    </p>
+  ![alt](./img/w3_quizz4a.png)
 
 - [Assignment](https://github.com/GafBof/advanced_data_science_ibm/blob/main/Course%203:%20Applied%20AI%20with%20DeepLearning/Week%203/Assignment.ipynb).
 
